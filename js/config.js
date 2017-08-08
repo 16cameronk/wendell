@@ -1,9 +1,12 @@
-
+/******************************************************************************************************************/
+/* IVOR | Personal Portfolio Template                                                                             */
+/* (c) 2017 Rene Puchinger                                                                                        */
+/******************************************************************************************************************/
 /* CONFIG                                                                                                         */
 /******************************************************************************************************************/
 
 /* Edit the array as you wish. It will contain the typed strings. */
-var config_typedArray = ["I am an educator.", "I am creative.", "I am an educator.", "I am an academic.", "I am innovative.", "I am a researcher." ];
+var config_typedArray = ["I am programmer.", "I am creative."];
 
 /* Enable the Typed effect */
 var config_enableTyped = false;
@@ -17,7 +20,7 @@ var config_frontPageEffect = 'particles';
 /* If config_frontPageEffect is set to video, here set the video URL, type and opacity */
 var config_videoUrl = 'video/background.mp4';
 var config_videoType = 'video/mp4';
-var config_videoOpacity = 0.75;
+var config_videoOpacity = 1;
 
 /* Google map parameters */
 var config_mapLat = 51.509036; // latitude
