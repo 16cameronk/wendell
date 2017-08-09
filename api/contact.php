@@ -1,7 +1,7 @@
 <?php
 
   // FIXME: Update this to your desired email address.
-  $configEmail = "hello@example.com";
+  $configEmail = "wendell.adjetey@yale.edu";
 
   // My modifications to mailer script from:
   // http://blog.teamtreehouse.com/create-ajax-contact-form
